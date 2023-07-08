@@ -1,0 +1,1169 @@
+[
+  {
+    "id": 12999,
+    "deviceId": "AQ0621002",
+    "userId": 2143,
+    "deviceType": "AQBOT",
+    "latitude": 22.73,
+    "longitude": 72.44,
+    "loc": "Dholka",
+    "label": "Dholka",
+    "city": "Dholka",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.447Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "AQ0621002",
+      "deviceType": "AQBOT",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "temp": 26.78,
+          "sg": -61,
+          "s1": 38.95,
+          "hum": 34.02,
+          "g41": -6.13,
+          "g4": 0
+        }
+      }
+    },
+    "mfgId": "AQ0621002"
+  },
+  {
+    "id": 12998,
+    "deviceId": "YG19R0007",
+    "userId": 2143,
+    "deviceType": "CPCB",
+    "latitude": 23.025081,
+    "longitude": 72.669815,
+    "loc": "Odhav",
+    "label": "Star Industries",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.446Z",
+    "config": { "interval": 900 },
+    "data": {
+      "deviceId": "YG19R0007",
+      "deviceType": "CPCB",
+      "payload": {
+        "d": { "t": 1628177400, "r1": 68020, "p4": 28700, "g8": 71105.76 }
+      }
+    },
+    "mfgId": "YG19R0007"
+  },
+  {
+    "id": 12997,
+    "deviceId": "YG19R0006",
+    "userId": 2143,
+    "deviceType": "CPCB",
+    "latitude": 23.090013,
+    "longitude": 72.671545,
+    "loc": "GIDC Naroda",
+    "label": "Naroda Industries",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.445Z",
+    "config": { "interval": 900 },
+    "data": {
+      "deviceId": "YG19R0006",
+      "deviceType": "CPCB",
+      "payload": {
+        "d": { "t": 1627438500, "r1": 64200, "p4": 40670, "g8": 26201.88 }
+      }
+    },
+    "mfgId": "YG19R0006"
+  },
+  {
+    "id": 12996,
+    "deviceId": "YG19R0005",
+    "userId": 2143,
+    "deviceType": "CPCB",
+    "latitude": 22.965819,
+    "longitude": 72.650383,
+    "loc": "GIDC Vatwa",
+    "label": "ABC Industries",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.445Z",
+    "config": { "interval": 900 },
+    "data": {
+      "deviceId": "YG19R0005",
+      "deviceType": "CPCB",
+      "payload": {
+        "d": { "t": 1627438500, "r1": 880200, "p4": 17260, "g8": 68.7 }
+      }
+    },
+    "mfgId": "YG19R0005"
+  },
+  {
+    "id": 12995,
+    "deviceId": "YG19P0017",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.05828,
+    "longitude": 72.51936,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Zydus",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.444Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0017",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 33.27,
+          "p2": 80.13,
+          "p1": 38.82,
+          "hum": 24.07,
+          "g8": 2.35,
+          "g7": 15.84,
+          "g5": 21.99,
+          "g3": 5.97,
+          "g2": 497.82,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0017"
+  },
+  {
+    "id": 12994,
+    "deviceId": "YG19P0018",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.1354380995117,
+    "longitude": 72.5428334710516,
+    "loc": "Sarkhej - Gandhinagar Hwy, Ahmedabad, Gujarat 382481, India",
+    "label": "Polludron-Vaishnodevi Circle",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.443Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0018",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 33.33,
+          "p2": 23.77,
+          "p1": 13.77,
+          "hum": 24.11,
+          "g8": 2.5,
+          "g7": 4.15,
+          "g5": 22.75,
+          "g3": 5.07,
+          "g2": 707.42,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0018"
+  },
+  {
+    "id": 12993,
+    "deviceId": "YG19P0020",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 22.9696,
+    "longitude": 72.64327,
+    "loc": "Ahmedabad",
+    "label": "Polludron-GIDC Vatwa",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.442Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0020",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 5.31,
+          "wd": 352,
+          "temp": 32.76,
+          "p2": 139.74,
+          "p1": 58.04,
+          "hum": 24.46,
+          "g8": 15.78,
+          "g7": 12.76,
+          "g5": 17.72,
+          "g3": 57.3,
+          "g2": 759.83,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0020"
+  },
+  {
+    "id": 12992,
+    "deviceId": "YG19P0021",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.08695,
+    "longitude": 72.66687,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Naroda",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.441Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0021",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 37.69,
+          "p2": 79.82,
+          "p1": 45.3,
+          "hum": 17.69,
+          "g8": 4.64,
+          "g7": 8.89,
+          "g5": 20.14,
+          "g3": 47.84,
+          "g2": 681.22,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0021"
+  },
+  {
+    "id": 12991,
+    "deviceId": "YG19P0024",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.01599,
+    "longitude": 72.62608,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Garden",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.440Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0024",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 31.95,
+          "p2": 89.23,
+          "p1": 52.58,
+          "hum": 27.72,
+          "g8": 4.86,
+          "g7": 3.66,
+          "g5": 44.64,
+          "g3": 18.69,
+          "g2": 698.69,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0024"
+  },
+  {
+    "id": 12990,
+    "deviceId": "YG19P0025",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.07374,
+    "longitude": 72.61887,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Airport",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.439Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0025",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 37.33,
+          "p2": 476.22,
+          "p1": 436.94,
+          "hum": 14.8,
+          "g8": 53.26,
+          "g7": 7.69,
+          "g5": 21.15,
+          "g3": 24.74,
+          "g2": 908.3,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0025"
+  },
+  {
+    "id": 12989,
+    "deviceId": "YG19W0001",
+    "userId": 2143,
+    "deviceType": "WEATHERCOM",
+    "latitude": 23.0734,
+    "longitude": 72.6266,
+    "loc": "Ahmedabad",
+    "label": "Weathercom-Airport",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.438Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19W0001",
+      "deviceType": "WEATHERCOM",
+      "payload": {
+        "d": {
+          "t": 1631609100,
+          "ws": 2.45,
+          "wd": 327.67,
+          "temp": 26.73,
+          "rain": 0,
+          "hum": 59.44,
+          "flood": 0
+        }
+      }
+    },
+    "mfgId": "YG19W0001"
+  },
+  {
+    "id": 12988,
+    "deviceId": "YG19P0011",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.0203,
+    "longitude": 72.5294,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Shivranjani",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.436Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0011",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 35.06,
+          "p2": 76.37,
+          "p1": 30.47,
+          "hum": 21.33,
+          "g8": 9.4,
+          "g7": 2.35,
+          "g5": 40.52,
+          "g3": 27.23,
+          "g2": 558.95,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0011"
+  },
+  {
+    "id": 12987,
+    "deviceId": "YG19P0012",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.02254,
+    "longitude": 72.55617,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Panchvati Circle",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.435Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0012",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "temp": 35.44,
+          "p2": 269.82,
+          "p1": 71.78,
+          "hum": 21.59,
+          "g8": 16.45,
+          "g7": 10.48,
+          "g5": 46.4,
+          "g3": 29.6,
+          "g2": 1353.71,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0012"
+  },
+  {
+    "id": 12986,
+    "deviceId": "YG19P0022",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.03303,
+    "longitude": 72.67633,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Kathwada",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.434Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0022",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 37.2,
+          "p2": 33.9,
+          "p1": 17.03,
+          "hum": 18.54,
+          "g8": 1.82,
+          "g7": 8.54,
+          "g5": 21.92,
+          "g3": 3.78,
+          "g2": 593.89,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0022"
+  },
+  {
+    "id": 12985,
+    "deviceId": "YG19P0015",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.02841,
+    "longitude": 72.59998,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Kalupur",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.433Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0015",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 35.85,
+          "p2": 122.83,
+          "p1": 79.27,
+          "hum": 20.83,
+          "g8": 49.9,
+          "g7": 86.79,
+          "g5": 90.17,
+          "g3": 3.56,
+          "g2": 550.22,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0015"
+  },
+  {
+    "id": 12984,
+    "deviceId": "YG19P0023",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.00416,
+    "longitude": 72.59841,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Lakefront Garden",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:53:28.432Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0023",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 31.92,
+          "p2": 46.82,
+          "p1": 16.02,
+          "hum": 27.21,
+          "g8": 3.62,
+          "g7": 1.53,
+          "g5": 21.95,
+          "g3": 3.99,
+          "g2": 227.07,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0023"
+  },
+  {
+    "id": 12983,
+    "deviceId": "YG19P0016",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.01122,
+    "longitude": 72.5777,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Flower Market",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.030Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0016",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 33.34,
+          "p2": 57.2,
+          "p1": 24.85,
+          "hum": 23.39,
+          "g8": 2.14,
+          "g7": 34.44,
+          "g5": 21.53,
+          "g3": 10.01,
+          "g2": 742.36,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0016"
+  },
+  {
+    "id": 12982,
+    "deviceId": "YG19O0004",
+    "userId": 2143,
+    "deviceType": "ODOSENSE",
+    "latitude": 23.05148,
+    "longitude": 72.62648,
+    "loc": "Ahmedabad",
+    "label": "Odosense-Naroda",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.033Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19O0004",
+      "deviceType": "ODOSENSE",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "v5": 16.12,
+          "v4": 205.2,
+          "v3": 45.53,
+          "v2": 749.86,
+          "v1": 450,
+          "temp": 35.44,
+          "hum": 17.93,
+          "g8": 12.94,
+          "g6": 32.61,
+          "g3": 16.23,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19O0004"
+  },
+  {
+    "id": 12981,
+    "deviceId": "YG19R0002",
+    "userId": 2143,
+    "deviceType": "CPCB",
+    "latitude": 22.969611,
+    "longitude": 72.6435,
+    "loc": "GIDC Vatva",
+    "label": "Reference - GIDC Vatva",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.034Z",
+    "config": { "interval": 900 },
+    "data": {
+      "deviceId": "YG19R0002",
+      "deviceType": "CPCB",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 35.22,
+          "p2": 103.32,
+          "p1": 54.5,
+          "hum": 18.71,
+          "g8": 4.98,
+          "g7": 6.12,
+          "g5": 20.01,
+          "g3": 17.4,
+          "g2": 305.68
+        }
+      }
+    },
+    "mfgId": "YG19R0002"
+  },
+  {
+    "id": 12980,
+    "deviceId": "YG19R0003",
+    "userId": 2143,
+    "deviceType": "CPCB",
+    "latitude": 23.04307,
+    "longitude": 72.562968,
+    "loc": "Navrangpura",
+    "label": "Reference - Navrangpura",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.036Z",
+    "config": { "interval": 900 },
+    "data": {
+      "deviceId": "YG19R0003",
+      "deviceType": "CPCB",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 34.75,
+          "p2": 183.73,
+          "p1": 70.93,
+          "hum": 22.06,
+          "g8": 9.27,
+          "g7": 6.76,
+          "g5": 46.4,
+          "g3": 14.19,
+          "g2": 1021.83
+        }
+      }
+    },
+    "mfgId": "YG19R0003"
+  },
+  {
+    "id": 12979,
+    "deviceId": "YG19R0004",
+    "userId": 2143,
+    "deviceType": "CPCB",
+    "latitude": 23.023389,
+    "longitude": 72.515201,
+    "loc": "Satellite",
+    "label": "Reference-Satellite",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.037Z",
+    "config": { "interval": 3600 },
+    "data": {
+      "deviceId": "YG19R0004",
+      "deviceType": "CPCB",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 34.45,
+          "p2": 152.97,
+          "p1": 55.01,
+          "hum": 22.51,
+          "g8": 8.01,
+          "g7": 3.33,
+          "g5": 46.23,
+          "g3": 4.95,
+          "g2": 410.48
+        }
+      }
+    },
+    "mfgId": "YG19R0004"
+  },
+  {
+    "id": 12978,
+    "deviceId": "YG19R0001",
+    "userId": 2143,
+    "deviceType": "CPCB",
+    "latitude": 23.002657,
+    "longitude": 72.591912,
+    "loc": "Maninagar",
+    "label": "Reference - Maninagar",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.038Z",
+    "config": { "interval": 900 },
+    "data": {
+      "deviceId": "YG19R0001",
+      "deviceType": "CPCB",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 34.94,
+          "p2": 151.2,
+          "p1": 79.43,
+          "hum": 21.89,
+          "g8": 19.12,
+          "g7": 4.41,
+          "g5": 41.94,
+          "g3": 22.51,
+          "g2": 305.68
+        }
+      }
+    },
+    "mfgId": "YG19R0001"
+  },
+  {
+    "id": 12977,
+    "deviceId": "YG19P0014",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 22.99495,
+    "longitude": 72.53421,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Vishala",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.039Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0014",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 5.31,
+          "wd": 352,
+          "temp": 35.13,
+          "p2": 77.53,
+          "p1": 28.77,
+          "hum": 22.06,
+          "g8": 5.17,
+          "g7": 1.56,
+          "g5": 40.84,
+          "g3": 13.4,
+          "g2": 148.47,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0014"
+  },
+  {
+    "id": 12976,
+    "deviceId": "YG19P0013",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 23.06238,
+    "longitude": 72.56638,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Nava Vadaj",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.040Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0013",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 35.58,
+          "p2": 73.19,
+          "p1": 23.96,
+          "hum": 21.85,
+          "g8": 3.14,
+          "g7": 2.38,
+          "g5": 32.14,
+          "g3": 16.27,
+          "g2": 777.29,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0013"
+  },
+  {
+    "id": 12975,
+    "deviceId": "YG19P0019",
+    "userId": 2143,
+    "deviceType": "POLLUDRON_PRO",
+    "latitude": 22.98669,
+    "longitude": 72.49525,
+    "loc": "Ahmedabad",
+    "label": "Polludron-Sanand Chokdi",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.041Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19P0019",
+      "deviceType": "POLLUDRON_PRO",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 5.31,
+          "wd": 352,
+          "temp": 33.09,
+          "p2": 58.26,
+          "p1": 20.53,
+          "hum": 23.88,
+          "g8": 1.73,
+          "g7": 24.07,
+          "g5": 16.11,
+          "g3": 1.73,
+          "g2": 401.75,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19P0019"
+  },
+  {
+    "id": 12974,
+    "deviceId": "YG19O0005",
+    "userId": 2143,
+    "deviceType": "ODOSENSE",
+    "latitude": 22.97177,
+    "longitude": 72.54985,
+    "loc": "Ahmedabad",
+    "label": "Odosense-Narol",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.042Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19O0005",
+      "deviceType": "ODOSENSE",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 5.31,
+          "wd": 352,
+          "v4": 0,
+          "v3": 46.65,
+          "v2": 930.75,
+          "v1": 400,
+          "temp": 36.28,
+          "hum": 17.79,
+          "g8": 16.92,
+          "g6": 36.41,
+          "g3": 36.9,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19O0005"
+  },
+  {
+    "id": 12973,
+    "deviceId": "YG19O0003",
+    "userId": 2143,
+    "deviceType": "ODOSENSE",
+    "latitude": 22.98248,
+    "longitude": 72.56639,
+    "loc": "Ahmedabad",
+    "label": "Odosense-SWM dumpsite",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.043Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19O0003",
+      "deviceType": "ODOSENSE",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 5.31,
+          "wd": 352,
+          "temp": 34.63,
+          "p2": 56.41,
+          "p1": 13.2,
+          "lmin": 59.9,
+          "lmax": 74.3,
+          "light": 23602.45,
+          "leq": 65.5,
+          "hum": 21.74,
+          "g8": 8.41,
+          "g6": 64.48,
+          "g3": 39.73,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19O0003"
+  },
+  {
+    "id": 12972,
+    "deviceId": "YG19D0010",
+    "userId": 2143,
+    "deviceType": "DUSTROID",
+    "latitude": 23.0546,
+    "longitude": 72.59114,
+    "loc": "Ahmedabad",
+    "label": "Dustroid-The Calico Museum of Textiles",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.044Z",
+    "config": { "interval": 120 },
+    "data": {
+      "deviceId": "YG19D0010",
+      "deviceType": "DUSTROID",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 34.03,
+          "hum": 62,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19D0010"
+  },
+  {
+    "id": 12971,
+    "deviceId": "YG19D0008",
+    "userId": 2143,
+    "deviceType": "DUSTROID",
+    "latitude": 23.05715,
+    "longitude": 72.68734,
+    "loc": "Ahmedabad",
+    "label": "Dustroid-Vintage Car Muesum",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.046Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19D0008",
+      "deviceType": "DUSTROID",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 32.75,
+          "p2": 75.05,
+          "p1": 17.12,
+          "hum": 26.93,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19D0008"
+  },
+  {
+    "id": 12970,
+    "deviceId": "YG19D0007",
+    "userId": 2143,
+    "deviceType": "DUSTROID",
+    "latitude": 23.09383,
+    "longitude": 72.59661,
+    "loc": "Ahmedabad",
+    "label": "Dustroid-Narendra Modi Stadium",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.046Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19D0007",
+      "deviceType": "DUSTROID",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 32.64,
+          "p2": 107.17,
+          "p1": 29.18,
+          "hum": 26.52,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19D0007"
+  },
+  {
+    "id": 12969,
+    "deviceId": "YG19D0006",
+    "userId": 2143,
+    "deviceType": "DUSTROID",
+    "latitude": 23.04154,
+    "longitude": 72.53885,
+    "loc": "Ahmedabad",
+    "label": "Dustroid-GMDC ground",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.047Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19D0006",
+      "deviceType": "DUSTROID",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 32.93,
+          "p4": 147.42,
+          "p2": 128.95,
+          "p1": 77.7,
+          "hum": 24.72,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19D0006"
+  },
+  {
+    "id": 12968,
+    "deviceId": "YG19D0005",
+    "userId": 2143,
+    "deviceType": "DUSTROID",
+    "latitude": 23.02703,
+    "longitude": 72.58098,
+    "loc": "Ahmedabad",
+    "label": "Dustroid-Sidi Saiyyed Jali",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.048Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19D0005",
+      "deviceType": "DUSTROID",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 33.33,
+          "p4": 123.48,
+          "p2": 106.93,
+          "p1": 59.06,
+          "hum": 24.25,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19D0005"
+  },
+  {
+    "id": 12967,
+    "deviceId": "YG19D0004",
+    "userId": 2143,
+    "deviceType": "DUSTROID",
+    "latitude": 23.04151,
+    "longitude": 72.45751,
+    "loc": "Ahmedabad",
+    "label": "Dustroid-Bopal",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.049Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19D0004",
+      "deviceType": "DUSTROID",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 3.6,
+          "wd": 20,
+          "temp": 33.1,
+          "p2": 119.11,
+          "p1": 27.77,
+          "hum": 25.24,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19D0004"
+  },
+  {
+    "id": 12966,
+    "deviceId": "YG19D0003",
+    "userId": 2143,
+    "deviceType": "DUSTROID",
+    "latitude": 22.97582,
+    "longitude": 72.65035,
+    "loc": "Ahmedabad",
+    "label": "Dustroid-NE 1 Toll Plaza",
+    "city": "Ahmedabad",
+    "country": "India",
+    "isOnline": 1,
+    "created_on": "2022-12-28T12:44:23.050Z",
+    "config": { "interval": 300 },
+    "data": {
+      "deviceId": "YG19D0003",
+      "deviceType": "DUSTROID",
+      "payload": {
+        "d": {
+          "t": 1674644700,
+          "ws": 5.31,
+          "wd": 352,
+          "temp": 33.62,
+          "p4": 493.33,
+          "p2": 426.03,
+          "p1": 123.15,
+          "hum": 24.73,
+          "bs": 100
+        }
+      }
+    },
+    "mfgId": "YG19D0003"
+  }
+]
